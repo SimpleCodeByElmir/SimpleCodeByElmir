@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Elmir Musaev and welocome to my profile.
+### Hi there 👋 I'm Elmir Musaev and welocome to my profile.
 
-***notice that: The contribution activity here do not reflect the real time spent working on projects.  
+**notice: the contribution activity here doesn't reflect the real time spent working on projects.  
 Check Repo GitLab_activity/
 
 <!--

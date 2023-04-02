@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Elmir Musaev and welocome to my profile.
-`note that the contribution activity here doesn't reflect the real time spent working on projects.  
+`note: the contribution activity here doesn't reflect the real time spent working on projects.  
 Check Repo GitLab_activity/`
 
 <!--

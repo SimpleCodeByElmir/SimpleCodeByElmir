@@ -1,8 +1,9 @@
 ### Hi there 👋
-[![MasterHead](images/luxury.jpg)](https://github.com/SimpleCodeByElmir)
 
 <!--
 **SimpleCodeByElmir/SimpleCodeByElmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![MasterHead](images/luxury.jpg)](https://github.com/SimpleCodeByElmir)
 
 Here are some ideas to get you started:
 

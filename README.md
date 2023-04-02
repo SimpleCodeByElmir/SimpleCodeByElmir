@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Elmir Musaev and welocome to my profile.
+
+***notice that: The contribution activity here do not reflect the real time spent working on projects.  
+Check Repo GitLab_activity/
 
 <!--
 **SimpleCodeByElmir/SimpleCodeByElmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

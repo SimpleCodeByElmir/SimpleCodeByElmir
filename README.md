@@ -1,5 +1,8 @@
 ### Hi there 👋
+[![MasterHead](images/luxury.jpg)](https://github.com/SimpleCodeByElmir)
+<!--
 <img align="center" alt="Me" width="800" src="images/luxury.jpg">
+-->
 <!--
 **SimpleCodeByElmir/SimpleCodeByElmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

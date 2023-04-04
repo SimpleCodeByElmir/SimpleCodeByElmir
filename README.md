@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Elmir Musaev and welocome to my profile.
+### Hi there 👋 My name is Elmir Musaev and Welocome to my Profile.
 
 [![MasterHead](images/HackTheBox.jpg)](https://github.com/SimpleCodeByElmir)
 

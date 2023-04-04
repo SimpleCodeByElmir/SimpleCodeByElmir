@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Elmir Musaev and welocome to my profile.
 
-[![MasterHead](images/HackTheBox.jpg.jpg)](https://github.com/SimpleCodeByElmir)
+[![MasterHead](images/HackTheBox.jpg)](https://github.com/SimpleCodeByElmir)
 
 `note: the contribution activity here doesn't reflect the real time spent working on projects.`  
 `Check repo GitLab_activity/`

@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Elmir Musaev and welocome to my profile.
+
+[![MasterHead](images/Me.jpg)](https://github.com/SimpleCodeByElmir)
+
 `note: the contribution activity here doesn't reflect the real time spent working on projects.`  
 `Check repo GitLab_activity/`
 
 <!--
 **SimpleCodeByElmir/SimpleCodeByElmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![MasterHead](images/luxury.jpg)](https://github.com/SimpleCodeByElmir)
 
 Here are some ideas to get you started:
 

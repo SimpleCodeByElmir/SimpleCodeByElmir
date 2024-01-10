@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Elmir Musaev and Willkommen to my Profile.
+### Hi there 👋 :)
 
 
 
